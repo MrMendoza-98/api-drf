@@ -82,6 +82,6 @@ Este proyecto utiliza autenticación basada en tokens. Para obtener un token, en
 Para ejecutar las pruebas, usa el siguiente comando:
 ```sh
 python manage.py test
-
+```
 # Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request.
